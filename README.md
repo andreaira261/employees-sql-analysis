@@ -1,7 +1,7 @@
 # Employees SQL Challenge
 
 ## Overview 
-In this assignment, we designed an ERD and table schemas to represent the data in the data modeling phase. During the data engineering process, we used SQL to translate the table schemas into database structures. Finally, we analyzed the data to extract valuable insights about employees, departments, and their relationships.
+In this assignment, a research project was conducted to analyze the individuals employed at a company during the 1980s and 1990s. An Entity Relationship Diagram (ERD) and table schemas were designed to represent the data in the data modeling phase. During the data engineering process, SQL was employed to translate the table schemas into database structures. Finally, the data was analyzed to extract valuable insights about employees, departments, and their relationships.
 
 ## Languages/ Tools: 
 - Quick DBD
